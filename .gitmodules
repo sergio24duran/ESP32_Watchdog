@@ -1,3 +1,0 @@
-[submodule "libraries/Firebase-ESP-Client"]
-  path = libraries/Firebase-ESP-Client
-  url = https://github.com/mobizt/Firebase-ESP-Client.git

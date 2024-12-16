@@ -16,7 +16,7 @@
 #include "esp_log.h"
 #include "nvs_flash.h"
 
-#include <esp_http_client.h>
+#include <Firebase.h>
 
 #include "lwip/err.h"
 #include "lwip/sys.h"
